@@ -3,3 +3,4 @@
 2. https://timothystepro.medium.com/visualizing-kafka-20bc384803e7
 3. https://jaceklaskowski.gitbooks.io/apache-kafka/content/
 4. https://jaceklaskowski.gitbooks.io/mastering-kafka-streams/content/
+5. https://educative.io
