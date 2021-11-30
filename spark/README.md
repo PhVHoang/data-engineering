@@ -23,3 +23,5 @@ There were 3 core concepts to the Google strategy:
 
 ## References
 1. https://developer.hpe.com/blog/spark-101-what-is-it-what-it-does-and-why-it-matters/
+2. https://educative.io
+3. https://jaceklaskowski.gitbooks.io/mastering-spark-sql/content/
