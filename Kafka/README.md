@@ -4,3 +4,4 @@
 3. https://jaceklaskowski.gitbooks.io/apache-kafka/content/
 4. https://jaceklaskowski.gitbooks.io/mastering-kafka-streams/content/
 5. https://educative.io
+6. https://cloudblogs.microsoft.com/opensource/2018/07/09/how-to-data-processing-apache-kafka-spark/
