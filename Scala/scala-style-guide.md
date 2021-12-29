@@ -84,4 +84,4 @@ cond
 ```
 
 
-_Source: cousera - Programming Reactive Systems
+*Source: cousera - Programming Reactive Systems*
