@@ -1,4 +1,4 @@
-# Spark-Hadoop-BigQuery-Kafka-training
+# A collection of Data Engineering related stuff
 
 
 ## References
