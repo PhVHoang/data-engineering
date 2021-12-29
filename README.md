@@ -1,5 +1,8 @@
 # A collection of Data Engineering related stuff
 
+## General architecture of a data pipeline
+![big-data](https://user-images.githubusercontent.com/12546802/147637496-d431c96f-f952-4548-885e-02b168b27178.png)
+
 
 ## References
 1. [Map-Reduce paper](http://static.googleusercontent.com/media/research.google.com/en/us/archive/mapreduce-osdi04.pdf)
