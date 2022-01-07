@@ -21,6 +21,9 @@ There were 3 core concepts to the Google strategy:
 
 **Tolerate faults**: both data and computation can tolerate failures by failing over to another node for data or processing.
 
+## Useful repositories
+1. https://github.com/MrPowers/spark-daria
+
 ## References
 1. https://developer.hpe.com/blog/spark-101-what-is-it-what-it-does-and-why-it-matters/
 2. https://educative.io
