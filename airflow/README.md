@@ -10,3 +10,4 @@ An Airflow installation generally consists of the following components:
 
 ## References
 1. https://airflow.apache.org/docs/apache-airflow/stable/concepts/overview.html
+2. https://blog.locale.ai/we-were-all-using-airflow-wrong-and-now-its-fixed/
