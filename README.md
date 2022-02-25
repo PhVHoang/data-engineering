@@ -11,6 +11,7 @@
 4. [MySQL-Query Optimization](https://www.oreilly.com/library/view/high-performance-mysql/9780596101718/ch04.html)
 5. [Trino Architecture](https://www.oreilly.com/library/view/trino-the-definitive/9781098107703/ch04.html#fig-task-management)
 6. [Lake-house paper](http://cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf)
+7. [Delta lake paper](https://databricks.com/wp-content/uploads/2020/08/p975-armbrust.pdf)
 
 ## Podcasts
 1. [data engineering podcast](https://www.dataengineeringpodcast.com/)
