@@ -20,3 +20,7 @@ YARN is one such example of a cluster manager software. Spark is compatible with
 In this setting, both the driver and the executors live inside the cluster.
 - **Client mode:**  The client mode is similar to the cluster mode, except that the driver process lives on the client machine that is used to submit the Spark job outside the cluster. The machine hosting the driver process is not co-located on the cluster running the executor processes. 
 - The client machine is responsible for maintaining the driver process, while the cluster is responsible for maintaining the executor processes.
+
+
+## How underlying execution happens when running a job
+![sparks_job_context](https://user-images.githubusercontent.com/12546802/155882785-f6d64465-fa57-4be7-9663-9a27314703a8.jpeg)
