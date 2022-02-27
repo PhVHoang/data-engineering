@@ -1,4 +1,4 @@
-## The need of Delta lake
+## The need of Delta Lake
 <img width="1845" alt="Screen Shot 2022-02-27 at 22 52 49" src="https://user-images.githubusercontent.com/12546802/155885338-103bb22e-6d83-4fab-8dc4-76450ede9e9c.png">
 
 
