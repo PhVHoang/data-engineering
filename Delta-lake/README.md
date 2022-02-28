@@ -5,4 +5,5 @@
 ## References
 
 1. [Delta from a Data Engineer's Perspective](https://www.youtube.com/watch?v=Bt29VmORJ4o)
-2. [Delta lake paper](https://databricks.com/wp-content/uploads/2020/08/p975-armbrust.pdf)
+2. [Delta Lake paper](https://databricks.com/wp-content/uploads/2020/08/p975-armbrust.pdf)
+3. [Delta Lake for Apache Spark](https://www.youtube.com/watch?v=0GhFAzN4qs4) 
