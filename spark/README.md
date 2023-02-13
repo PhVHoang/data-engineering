@@ -29,3 +29,4 @@ There were 3 core concepts to the Google strategy:
 2. https://educative.io
 3. https://jaceklaskowski.gitbooks.io/mastering-spark-sql/content/
 4. https://jaceklaskowski.gitbooks.io/spark-structured-streaming/content/
+5. [Spark Internals](https://github.com/JerryLead/SparkInternals)
