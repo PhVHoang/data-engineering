@@ -7,7 +7,7 @@
 ## Trino runtime replaces Hive runtime
 ![trino](https://user-images.githubusercontent.com/12546802/143522425-9219fa06-7335-4347-9edb-019ef379e733.png)
 
-=> The HMS is the only Hive process used in the entire Trno ecosystem when using the Hive connector
+=> The HMS is the only Hive process used in the entire Trino ecosystem when using the Hive connector
 => The HMS is actually a simple service with a binary API using the Thrift protocol, this service makes updates to the metadata, stored in an RDBMS such as PostgreSQL, MySQL,...
 => There are other compatible replacements of the HMS such as AWS Glue
 
