@@ -1,6 +1,6 @@
 # A collection of Data Engineering related stuff
 
-## General architecture of a data pipeline
+## General architecture of a Batch Processing Data Pipeline
 ![big-data](https://user-images.githubusercontent.com/12546802/147637496-d431c96f-f952-4548-885e-02b168b27178.png)
 
 
